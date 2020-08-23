@@ -14,7 +14,7 @@ Keras API can be divided into three main categories
 
 In Keras, every ANN is represented by **Keras Models**. In turn, every Keras Model is composition of **Keras Layers** and represents ANN layers like input, hidden layer, output layers, convolution layer, pooling layer, etc., Keras model and layer access **Keras modules** for activation function, loss function, regularization function, etc., Using Keras model, Keras Layer, and Keras modules, any ANN algorithm (CNN, RNN, etc.,) can be represented in a simple and efficient manner.
 
-#### **Architecture of Keras**![Architecture of kerashttps://github.com/punitkmryh/seq-Neu-Net-DeepKeras/blob/master/img/Architecture%20of%20keras.png)
+#### **Architecture of Keras**![Architecture of keras](https://github.com/punitkmryh/seq-Neu-Net-DeepKeras/blob/master/img/Architecture%20of%20keras.png)
 
 **Model**
 
@@ -36,7 +36,7 @@ Keras Models are of two types as mentioned below
 
   Each Keras layer in the Keras model represent the corresponding layer (input layer, hidden layer and output layer) in the actual proposed neural network model. Keras provides a lot of pre-build layers so that any complex neural network can be easily created.
 
-  #### **WorkFlow of ANN using Keras** ![Workflow of ANN-2](https://github.com/punitkmryh/seq-Neu-Net-DeepKeras/blob/master/img/Workflow%20of%20ANN-2.pngg)
+  #### **WorkFlow of ANN using Keras** ![Workflow of ANN-2](https://github.com/punitkmryh/seq-Neu-Net-DeepKeras/blob/master/img/Workflow%20of%20ANN-2.png)
 
 **Core Modules**
 
